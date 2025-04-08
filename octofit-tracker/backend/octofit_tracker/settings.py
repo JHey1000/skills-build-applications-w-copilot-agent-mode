@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-df^cqt%4van!e!02-4_=h%cus90#@7#o^zbcwltj2g3*3t-!^g
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS += ['effective-space-spork-r474x5rw9wwr25v69-8000.app.github.dev']
 
 
 # Application definition
